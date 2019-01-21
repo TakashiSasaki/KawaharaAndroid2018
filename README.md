@@ -8,9 +8,11 @@ Firebaseやカメラプレビュー、Kotlinでの書き直し、
 コードを共有するためにGithubに置いています。
 
 Firebase入門 2018年12月6日～
+
 http://bit.ly/2KXO1QF
 
 PWA (Progressive Web Application)入門 2019年1月後半～
+
 ブラウザ上でHTML,CSS,JavaScriptなどのコードを書いてクラウド上でテストできる便利なサイト
 https://glitch.com/ を使って学習を進めますので、
 あらかじめ Glitch にアカウントを作成しておいてください。
