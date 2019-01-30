@@ -12,6 +12,7 @@ Firebase入門 2018年12月6日～
 http://bit.ly/2KXO1QF
 
 PWA (Progressive Web Application)入門 2019年1月後半～
+https://docs.google.com/presentation/d/1Ee_g1SLFiW64phiEERqCw1PgmHQI7X21aF5oto-iqko/edit?usp=sharing
 
 ブラウザ上でHTML,CSS,JavaScriptなどのコードを書いてクラウド上でテストできる便利なサイト
 https://glitch.com/ を使って学習を進めますので、
