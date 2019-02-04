@@ -1,0 +1,17 @@
+{
+  "lang": "ja",
+  "short_name": "hoge-firebase",
+  "name": "hoge-firebase",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/37e8e580-3ec3-44e7-965c-d30db0705ed0%2Ffirebase.png?1548901744853",
+      "type": "image/png",
+      "sizes": "360x360"
+    }
+  ],
+  "start_url": "https://hoge-firebase.glitch.me/",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3",
+  "orientation": "portrait"
+}

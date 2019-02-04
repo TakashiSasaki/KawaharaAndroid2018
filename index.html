@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <title>hoge-firebase</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="/manifest.json">
+    <script src="/pwa.js"></script>
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://www.gstatic.com/firebasejs/5.8.0/firebase.js" defer></script>
+    <script src="/firebase.js" defer></script>
+    <script src="/click.js" defer></script>
+  </head>  
+  <body>
+    <div>
+      <label for="key">key</label><input id="key">
+    </div>
+    <div>
+      <label for="value">value</label><input id="value">      
+    </div>
+    <button onclick="onSaveClick(this)">save</button>
+    <div>
+      <label for="email">email</label><input id="email">
+    </div>
+    <div>
+      <label for="password">password</label><input id="password" type="password">
+    </div>
+    <div>
+      <label for="provider_data">Provider Data</label>
+      <textarea id="provider_data" readonly="1"></textarea>
+    </div>
+    <div>
+      <label for="log">Log</label>
+      <textarea id="log" readonly="1"></textarea>
+    </div>
+    <div>
+      <label for="user_id">User ID</label>
+      <input id="user_id" readonly="1">
+    </div>
+    <div>
+      <button onclick="onCreateUserClick(this)">Create User</button>
+      <button onclick="onLoginClick(this)">Login</button>
+      <button onclick="onLogoutClick(this)">Logout</button>
+      <button onclick="onDeleteUserClick(this)">Delete User</button>
+    </div>
+  </body>
+</html>
