@@ -19,6 +19,9 @@ https://glitch.com/ を使って学習を進めますので、
 あらかじめ Glitch にアカウントを作成しておいてください。
 Emailアドレス、Facebookアカウント、Githubアカウントのいずれかを持っていればGlitchにサインアップできます。
 
+Glitch で使用したサンプルコードは Github にもアップロードしております。
+https://github.com/TakashiSasaki/KawaharaAndroid2018/tree/glitch
+
 基礎&応用力をしっかり育成! Androidアプリ開発の教科書 なんちゃって開発者にならないための実践ハンズオン (CodeZine BOOKS) 
 https://www.amazon.co.jp/dp/4798152021/ref=cm_sw_r_tw_dp_U_x_dHv4BbK6JB5TT
 
