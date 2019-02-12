@@ -2,7 +2,7 @@
 
 後期テストは以下のURLから受けていただけます。
 書籍やウェブサイトなどでの情報収集は可とします。
-https://goo.gl/forms/jLCjCFARBiKDbl3S2
+https://goo.gl/forms/9uRiS5Hg0bqCWofx1
 
 # Androidプログラミング関連教材およびスライド
 
